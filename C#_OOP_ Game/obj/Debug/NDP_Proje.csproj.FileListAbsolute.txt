@@ -1,0 +1,10 @@
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.csprojAssemblyReference.cache
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\TSULUKIDZE\Desktop\C# Uni\NDP_Proje\obj\Debug\NDP_Proje.pdb
