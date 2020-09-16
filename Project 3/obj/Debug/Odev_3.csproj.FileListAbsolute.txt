@@ -1,0 +1,9 @@
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\bin\Debug\Odev_3.exe.config
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\bin\Debug\Odev_3.exe
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\bin\Debug\Odev_3.pdb
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.csprojAssemblyReference.cache
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.Form1.resources
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.Properties.Resources.resources
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.csproj.GenerateResource.cache
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.exe
+C:\Users\TSULUKIDZE\Documents\C# Uni\Odev_3\obj\Debug\Odev_3.pdb
