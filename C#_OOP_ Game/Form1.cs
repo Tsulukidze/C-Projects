@@ -5,10 +5,9 @@
 **				   NESNEYE DAYALI PROGRAMLAMA DERSİ
 **					2019-2020 BAHAR DÖNEMİ
 **	
-**				ÖDEV NUMARASI...... ...:   Proje
-**				ÖĞRENCİ ADI............:   Temur Tsulukidze
-**				ÖĞRENCİ NUMARASI.......:   B181210563
-**              DERSİN ALINDIĞI GRUP...:   C
+**				
+**				Stundent Name:............:   Temur Tsulukidze
+**		
 *************************************************************************************************/
 
 using System;
