@@ -1,0 +1,17 @@
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe.config
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.exe
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\bin\Debug\VTYS_PROJE.pdb
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csprojAssemblyReference.cache
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Form1.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.Properties.Resources.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csproj.GenerateResource.cache
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.exe
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.pdb
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormKategori.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormMusteri.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormUrun.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormPersonel.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormSube.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormFirma.resources
+C:\Users\Tsulukidze\Desktop\PROJE\VTYS_PROJE\obj\Debug\VTYS_PROJE.FormTeslimat.resources
